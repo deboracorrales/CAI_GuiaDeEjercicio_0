@@ -10,6 +10,8 @@ namespace GuiaDeEjercicios_0
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo!");
+            Console.ReadLine();
         }
     }
 }

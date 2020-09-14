@@ -1,0 +1,7 @@
+C:\Users\debor\OneDrive\Documents\GitHub\CAI_GuiaDeEjercicios_0\GuiaDeEjercicios_0\GuiaDeEjercicios_0\bin\Debug\GuiaDeEjercicios_0.exe.config
+C:\Users\debor\OneDrive\Documents\GitHub\CAI_GuiaDeEjercicios_0\GuiaDeEjercicios_0\GuiaDeEjercicios_0\bin\Debug\GuiaDeEjercicios_0.exe
+C:\Users\debor\OneDrive\Documents\GitHub\CAI_GuiaDeEjercicios_0\GuiaDeEjercicios_0\GuiaDeEjercicios_0\bin\Debug\GuiaDeEjercicios_0.pdb
+C:\Users\debor\OneDrive\Documents\GitHub\CAI_GuiaDeEjercicios_0\GuiaDeEjercicios_0\GuiaDeEjercicios_0\obj\Debug\GuiaDeEjercicios_0.csprojAssemblyReference.cache
+C:\Users\debor\OneDrive\Documents\GitHub\CAI_GuiaDeEjercicios_0\GuiaDeEjercicios_0\GuiaDeEjercicios_0\obj\Debug\GuiaDeEjercicios_0.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Documents\GitHub\CAI_GuiaDeEjercicios_0\GuiaDeEjercicios_0\GuiaDeEjercicios_0\obj\Debug\GuiaDeEjercicios_0.exe
+C:\Users\debor\OneDrive\Documents\GitHub\CAI_GuiaDeEjercicios_0\GuiaDeEjercicios_0\GuiaDeEjercicios_0\obj\Debug\GuiaDeEjercicios_0.pdb
